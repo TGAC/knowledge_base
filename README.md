@@ -2,6 +2,6 @@
 EI specific documentation (induction materials, tool/method specific advice); contributions made by EI users.
 
 
-Contributing guidleines:
+Contributing guidelines:
 
 (placeholder)
