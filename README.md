@@ -5,3 +5,5 @@ EI specific documentation (induction materials, tool/method specific advice); co
 Contributing guidelines:
 
 (placeholder)
+
+Please follow this link to the wiki: https://github.com/TGAC/knowledge_base/wiki
